@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Homepage: https://github.com/nerdile/noexcuses-filterlist
 ! Title: NoExcuses
 ! Expires: 14 days
