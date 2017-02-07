@@ -1,0 +1,15 @@
+||taboola.com
+||taboolasyndication.com
+||aolcdn.com
+||scorecardresearch.com
+||cxense.com
+||quantserve.com
+||alicdn.com
+||outbrain.com
+||chartbeat.net
+||addthis.com
+||chartbeat.com
+||contentinsights.com
+||googletagmanager.com
+||googletagservices.com
+||appspot.com
